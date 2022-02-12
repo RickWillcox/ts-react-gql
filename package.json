@@ -1,0 +1,16 @@
+{
+  "name": "ts-react-gql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "BigShakaGames <bigshakagames@gmail.com> (https://www.fiverr.com/nft_cheap_fast/teach-you-how-to-make-your-own-nfts-using-a-script)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "ts-node": "^10.5.0"
+  }
+}
